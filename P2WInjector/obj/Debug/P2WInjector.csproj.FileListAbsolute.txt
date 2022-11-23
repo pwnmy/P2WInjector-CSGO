@@ -1,0 +1,8 @@
+C:\Users\blkad\Downloads\CSGOInjector-master\CSGOInjector-master\P2WInjector\bin\Debug\CSGOInjector.exe.config
+C:\Users\blkad\Downloads\CSGOInjector-master\CSGOInjector-master\P2WInjector\bin\Debug\CSGOInjector.exe
+C:\Users\blkad\Downloads\CSGOInjector-master\CSGOInjector-master\P2WInjector\bin\Debug\CSGOInjector.pdb
+C:\Users\blkad\Downloads\CSGOInjector-master\CSGOInjector-master\P2WInjector\obj\Debug\P2WInjector.csproj.AssemblyReference.cache
+C:\Users\blkad\Downloads\CSGOInjector-master\CSGOInjector-master\P2WInjector\obj\Debug\P2WInjector.csproj.SuggestedBindingRedirects.cache
+C:\Users\blkad\Downloads\CSGOInjector-master\CSGOInjector-master\P2WInjector\obj\Debug\P2WInjector.csproj.CoreCompileInputs.cache
+C:\Users\blkad\Downloads\CSGOInjector-master\CSGOInjector-master\P2WInjector\obj\Debug\CSGOInjector.exe
+C:\Users\blkad\Downloads\CSGOInjector-master\CSGOInjector-master\P2WInjector\obj\Debug\CSGOInjector.pdb

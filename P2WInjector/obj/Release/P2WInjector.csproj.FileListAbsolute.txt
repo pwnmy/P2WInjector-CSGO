@@ -1,0 +1,16 @@
+C:\Users\blkad\Downloads\CSGOInjector-master\CSGOInjector-master\P2WInjector\bin\Release\CSGOInjector.exe.config
+C:\Users\blkad\Downloads\CSGOInjector-master\CSGOInjector-master\P2WInjector\bin\Release\CSGOInjector.exe
+C:\Users\blkad\Downloads\CSGOInjector-master\CSGOInjector-master\P2WInjector\bin\Release\CSGOInjector.pdb
+C:\Users\blkad\Downloads\CSGOInjector-master\CSGOInjector-master\P2WInjector\obj\Release\P2WInjector.csproj.AssemblyReference.cache
+C:\Users\blkad\Downloads\CSGOInjector-master\CSGOInjector-master\P2WInjector\obj\Release\P2WInjector.csproj.SuggestedBindingRedirects.cache
+C:\Users\blkad\Downloads\CSGOInjector-master\CSGOInjector-master\P2WInjector\obj\Release\P2WInjector.csproj.CoreCompileInputs.cache
+C:\Users\blkad\Downloads\CSGOInjector-master\CSGOInjector-master\P2WInjector\obj\Release\CSGOInjector.exe
+C:\Users\blkad\Downloads\CSGOInjector-master\CSGOInjector-master\P2WInjector\obj\Release\CSGOInjector.pdb
+C:\Users\blkad\OneDrive\Desktop\P2WInjector\P2WInjector\bin\Release\CSGOInjector.exe.config
+C:\Users\blkad\OneDrive\Desktop\P2WInjector\P2WInjector\bin\Release\CSGOInjector.exe
+C:\Users\blkad\OneDrive\Desktop\P2WInjector\P2WInjector\bin\Release\CSGOInjector.pdb
+C:\Users\blkad\OneDrive\Desktop\P2WInjector\P2WInjector\obj\Release\P2WInjector.csproj.AssemblyReference.cache
+C:\Users\blkad\OneDrive\Desktop\P2WInjector\P2WInjector\obj\Release\P2WInjector.csproj.SuggestedBindingRedirects.cache
+C:\Users\blkad\OneDrive\Desktop\P2WInjector\P2WInjector\obj\Release\P2WInjector.csproj.CoreCompileInputs.cache
+C:\Users\blkad\OneDrive\Desktop\P2WInjector\P2WInjector\obj\Release\CSGOInjector.exe
+C:\Users\blkad\OneDrive\Desktop\P2WInjector\P2WInjector\obj\Release\CSGOInjector.pdb
