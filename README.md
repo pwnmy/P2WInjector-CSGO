@@ -1,5 +1,5 @@
 # CSGOInjector
-Bypass CSGO Trusted Mode
+*Bypass CSGO Trusted Mode + VAC*
 
 [Download Here](https://github.com/pwnmy/P2WInjector-CSGO/releases/download/csgo/P2WInjector.exe)
 
